@@ -10,7 +10,7 @@
 - 💻 Explorando nuevas tecnologías como **Raspberry Pi**, **API de OpenAI** y **LoRa** para comunicación a larga distancia.
 
 ### Conéctate conmigo:
-- 📫 Email: tu_email@example.com
+- 📫 Email: emanuelrs2011@gmail.com
 - 🌐 [Mi perfil en LinkedIn](https://www.linkedin.com/in/emanuel-roman-b4a2ba175/)
 - 🛠️ [Mi portafolio en GitHub](https://github.com/ManuelRs1701?tab=repositories)
 
